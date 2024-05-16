@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-image-ocr",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Takes an image and converts it into text automatically using OCR into Obsidian.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

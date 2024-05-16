@@ -1,11 +1,14 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-image-ocr",
+	"name": "Obsidian Image OCR",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "Takes an image and converts it into text automatically using OCR.",
+	"author": "VINXIS",
+	"authorUrl": "https://vinxis.moe/",
+	"fundingUrl": {
+		"Bandcamp": "https://vinxis.bandcamp.com/",
+		"Paypal": "paypal.me/VINXIS"
+	},
+	"isDesktopOnly": true
 }
